@@ -32,12 +32,12 @@ const char* example_root_ca = \
   "-----END CERTIFICATE-----\n";
 
 #endif
-#define SSID "pratikshrestha1"
-#define PASSWORD "437E5FCF94"
-#define ORG         "cgvhbx"
+#define SSID ""
+#define PASSWORD ""
+#define ORG         ""
 #define DEVICE_ID   "SOFTMESH-MASTER"
 #define DEVICE_TYPE "Master"
-#define TOKEN       "dwad8454@fes"
+#define TOKEN       ""
 
 
 char server[] = ORG ".messaging.internetofthings.ibmcloud.com";
